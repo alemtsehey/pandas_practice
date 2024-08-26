@@ -1,0 +1,11 @@
+fname,lname,age,sex,section,height(cm),weight(kg),spend_A,spend_B,spend_C
+Robel,Petros,37,M,B,175.4,85.6,1500,200,300
+Rakeb,Kahlid,38,M,B,NaN,NaN,NaN,1000,200
+Nitsuh,Moreda,35,M,B,165.1,NaN,500,-100,200
+Aron,Dawit,40,M,A,0,55.6,300,300,NaN
+Nardos,Sema,39,M,B,160.8,160,200,NaN,300
+Solomon,Meftir,36,M,A,xx,-60,100,400,NaN
+Salahdin,dawud,35,M,B,170.3,75.5,NaN,500,500
+Soresa,Dawud,35,M,C,155.1,56.8,1000,NaN,NaN
+Sewunet,Kahilid,36,M,C,154.2,60.6,600,300,200
+Aman,Vamrud,38,M,A,162.1,58.7,600,200,200
