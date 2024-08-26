@@ -1,0 +1,6 @@
+Name,Age,Salary,City,Department
+Alice,25,50000,New York,HR
+Alice,25,50000,New York,HR
+Bob,30,60000,Los Angeles,Engineering
+Charlie,NaN,75000,Chicago,Marketing
+David,22,48000,Houston,Engineering
